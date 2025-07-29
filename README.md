@@ -1,0 +1,2 @@
+# logicaSuperTrunfo
+logicaSuperTrunfo.c
